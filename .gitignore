@@ -9,6 +9,8 @@ cloudreve
 *.bin
 /release/
 README.md
+assets/build
+assets/node_modules
 
 # Test binary, build with `go test -c`
 *.test
