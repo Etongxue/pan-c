@@ -8,9 +8,8 @@ cloudreve
 *.db
 *.bin
 /release/
+assets.zip
 README.md
-assets/build
-assets/node_modules
 
 # Test binary, build with `go test -c`
 *.test
